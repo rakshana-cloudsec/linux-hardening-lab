@@ -29,25 +29,10 @@ Reduced attack surface and strengthened system defenses by applying best practic
 - Configured firewall rules to limit open ports.  
 - Set up audit logging for critical system events.
 
----
-
-## 📁 Folder Structure
-
--- network-monitoring-lab/
--- ├── docs/
--- │   ├── sample-pcaps/
--- │   ├── wireshark-analysis.md
--- │   └── dashboards/
--- ├── scripts/
--- │   ├── capture_traffic.sh
--- │   ├── otel_collector_config.yaml
--- │   └── install_signoz.sh
--- └── README.md
-
 
 ---
 
 ## 👩‍💻 Author
 
--- Rakshana Kannaya Muralidharan  
--- Master of Cybersecurity – RMIT University  
+Rakshana Kannaya Muralidharan  
+Master of Cybersecurity – RMIT University  
