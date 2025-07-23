@@ -1,2 +1,53 @@
-# linux-hardening-lab
-A security-focused lab repository for hardening Ubuntu Linux systems by applying CIS benchmarks and mitigating vulnerabilities. Includes scripts, configurations, and documentation for SSH hardening, UFW firewall setup, audit logging, and vulnerability simulations.
+# 🛡️ Linux System Hardening & Vulnerability Mitigation Lab
+
+This project focused on securing Ubuntu Linux servers by applying CIS benchmarks and mitigating vulnerabilities through hands-on lab exercises.
+
+---
+
+## 📌 Project Overview
+
+Reduced attack surface and strengthened system defenses by applying best practices such as SSH hardening, firewall configuration, and audit logging.
+
+---
+
+## 🔧 Tools & Techniques Used
+
+- Ubuntu Server 20.04  
+- CIS Security Benchmarks  
+- SSH Configuration  
+- Firewall (UFW)  
+- Auditd Logging  
+- Vulnerability Simulation (Brute-force, Privilege Escalation)
+
+---
+
+## 🧩 Key Activities
+
+- Performed system audits and applied CIS benchmarks to enforce security policies.  
+- Simulated attack scenarios to identify vulnerabilities and validate remediation.  
+- Hardened SSH to disallow root login and enforce key-based authentication.  
+- Configured firewall rules to limit open ports.  
+- Set up audit logging for critical system events.
+
+---
+
+## 📁 Folder Structure
+
+network-monitoring-lab/
+├── docs/
+│   ├── sample-pcaps/
+│   ├── wireshark-analysis.md
+│   └── dashboards/
+├── scripts/
+│   ├── capture_traffic.sh
+│   ├── otel_collector_config.yaml
+│   └── install_signoz.sh
+└── README.md
+
+
+---
+
+## 👩‍💻 Author
+
+Rakshana Kannaya Muralidharan  
+Master of Cybersecurity – RMIT University  
