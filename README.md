@@ -33,21 +33,21 @@ Reduced attack surface and strengthened system defenses by applying best practic
 
 ## 📁 Folder Structure
 
-network-monitoring-lab/
-├── docs/
-│   ├── sample-pcaps/
-│   ├── wireshark-analysis.md
-│   └── dashboards/
-├── scripts/
-│   ├── capture_traffic.sh
-│   ├── otel_collector_config.yaml
-│   └── install_signoz.sh
-└── README.md
+-- network-monitoring-lab/
+-- ├── docs/
+-- │   ├── sample-pcaps/
+-- │   ├── wireshark-analysis.md
+-- │   └── dashboards/
+-- ├── scripts/
+-- │   ├── capture_traffic.sh
+-- │   ├── otel_collector_config.yaml
+-- │   └── install_signoz.sh
+-- └── README.md
 
 
 ---
 
 ## 👩‍💻 Author
 
-Rakshana Kannaya Muralidharan  
-Master of Cybersecurity – RMIT University  
+-- Rakshana Kannaya Muralidharan  
+-- Master of Cybersecurity – RMIT University  
